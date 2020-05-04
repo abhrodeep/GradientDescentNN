@@ -1,4 +1,4 @@
-# GradientDescentNN
+# GradientDescentNNlogicGates
 single layer Neural net with 1-output implementation in python
 Its an OR gate implementation, n-input and 1-output with initialized 
 weights(w) and last value as bias multiplier(-1) not mean to be changed.
